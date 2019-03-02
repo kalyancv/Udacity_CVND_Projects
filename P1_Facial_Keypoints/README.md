@@ -25,7 +25,7 @@ __Notebook 3__ : Facial Keypoint Detection Using Haar Cascades and your Trained 
 
 1. Clone the repository, and navigate to the downloaded folder. This may take a minute or two to clone due to the included image data.
 ```
-git clone https://github.com/kalyancv/Facial_Keypoints.git
+git clone https://github.com/kalyancv/Udacity_CVND_Projects.git
 cd Facial_Keypoints
 ```
 
